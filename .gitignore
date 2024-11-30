@@ -1,17 +1,12 @@
-*
-
-# !/.github*
-# !/content/public
-
-# .DS_Store
-# .gitignore
-# node_modules
-# public
-# prof
-# tsconfig.tsbuildinfo
-# .obsidian
-# .quartz-cache
-# private/
-# .replit
-# replit.nix
-# /content/
+.DS_Store
+.gitignore
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+content/local
