@@ -1,7 +1,7 @@
 /*
 
-!/.github*
-!/content/public
+# !/.github*
+# !/content/public
 
 # .DS_Store
 # .gitignore
