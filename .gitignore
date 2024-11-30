@@ -9,5 +9,3 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-content/books
-content/Capture.md
